@@ -55,6 +55,7 @@ The data used in these projects was sourced from publicly available COVID-19 dat
 - Total cases, new cases, and deaths
 - Population statistics
 - Vaccination details
+- Link to dataset: https://ourworldindata.org/covid-deaths
 
 ## Prerequisites
 To run the SQL queries locally, you need:
